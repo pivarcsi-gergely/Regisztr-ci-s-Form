@@ -1,0 +1,18 @@
+.errormessage{
+    color: red;
+    font-size: 0.5em;
+    margin-bottom: 3em;
+}
+
+label{
+    font-weight: bold;
+}
+
+form{
+width: 33%;
+}
+
+.success{
+    text-align: center;
+    font-size: 2em;
+}
